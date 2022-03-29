@@ -73,5 +73,5 @@ class User implements \interfaces\User\UserInterface
     }
 }
 /*
-ericadperkins.com
+Author ericadperkins.com Web address phpcodesupport.com 
 */
