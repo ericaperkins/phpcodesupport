@@ -13,7 +13,7 @@ interface UserInterface
 
     public function getUserPassword(): string;
 
-    ericadperkins.com
+    Author ericadperkins.com Web address phpcodesupport.com 
 */
 }
 ?>
