@@ -1,2 +1,4 @@
-# phpcodesupport
-This is going to give a certificate in PHP and hopefully it can grow. #
+# Social Site 
+Basic user interface
+Basic user class
+Used in PHP
